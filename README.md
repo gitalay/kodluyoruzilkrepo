@@ -23,3 +23,4 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin,lutfen once neyi degistir
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+[Patika](www.patika.dev)
